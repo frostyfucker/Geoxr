@@ -1,0 +1,12 @@
+{
+  "name": "GeoXR: World Anchor AR",
+  "description": "Mobile-first WebXR and A-Frame spatial augmented reality application that anchors persistent 3D pins and information cards at exact GPS latitude/longitude coordinates in physical space.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation",
+    "accelerometer",
+    "gyroscope",
+    "magnetometer"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
